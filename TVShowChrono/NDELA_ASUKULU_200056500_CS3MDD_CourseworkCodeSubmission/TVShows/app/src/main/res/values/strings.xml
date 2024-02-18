@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TVShow</string>
+    <string name="bottom_home_item">Home</string>
+    <string name="bottom_watchlist_item">Watchlist</string>
+    <string name="bottom_help_item">Help</string>
+    <string name="tv_shows_most_popular">TV shows | Most Popular</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read less</string>
+    <string name="u2022">•</string>
+    <string name="website">website</string>
+    <string name="episodes">Episodes</string>
+    <string name="watchlist">watchlist</string>
+    <string name="search_tv_show">Search TV Show</string>
+    <string name="this_tv_shows_app_will_assist_you_in_discovering_the_most_popular_and_diverse_tv_shows">This TV Shows app will assist you in discovering the most popular and diverse TV Shows.</string>
+    <string name="start">Start</string>
+    <string name="tv_shows_app">TV Shows App</string>
+    <string name="search">Search</string>
+
+
+</resources>
